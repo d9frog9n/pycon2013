@@ -15,7 +15,8 @@
 #modules tranf to collections of types and functs
 #*provide of powerful factory for subclassing creatings (A -> B) -> C
 #
-#ßstatless adatpers in very good anf provides is very clear  high-lvel code
+#ßstatless adatpers in very good anf provides is very clear  high-lvel
+#code
 
 if __name__ == '__main__':
     print 'the ends with object inhtce and starts with modularity'
