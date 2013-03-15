@@ -10,5 +10,8 @@
 ##zip
 ##max function accepting key params
 #custom iteractions
-#generators
-#
+##generators
+##cntext managers
+#low-level iteraions
+#iter, next builtins
+#magic __iter__ method
